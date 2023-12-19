@@ -1,0 +1,5 @@
+INP
+BUN A
+INP
+A: OUT
+HLT

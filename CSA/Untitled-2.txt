@@ -1,0 +1,5 @@
+AR<-PC
+IR<-M[AR]
+PC<-PC+1
+AR<-IR(0-11)
+DECORDER IR
